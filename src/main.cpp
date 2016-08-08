@@ -1099,10 +1099,10 @@ unsigned int ComputeMinWork(unsigned int nBase, int64 nTime)
     bnResult.SetCompact(nBase);
     while (nTime > 0 && bnResult < bnProofOfWorkLimit)
     {
-        // Maximum 150% adjustment...
-        bnResult *= 1.5;
-        // ... in best-case exactly 1.5-times-normal target time
-        nTime -= nTargetTimespan*1.5;
+        // Maximum 200% adjustment...
+        bnResult *= 2;
+        // ... in best-case exactly 2-times-normal target time
+        nTime -= nTargetTimespan*2;
     }
     if (bnResult > bnProofOfWorkLimit)
         bnResult = bnProofOfWorkLimit;
