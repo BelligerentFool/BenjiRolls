@@ -1,0 +1,34 @@
+src/*.exe
+src/benjirolls
+src/benjirollsd
+src/test_benjirolls
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.benjirolls
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+benjirolls-qt
+BENJIROLLS-Qt.app
+
+# Unit-tests
+Makefile.test
+benjirolls-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile

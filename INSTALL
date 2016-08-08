@@ -1,0 +1,9 @@
+Building BENJIROLLS
+
+See doc/readme-qt.rst for instructions on building BENJIROLLS-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BENJIROLLS.
+
+See doc/build-*.txt for instructions on building benjirollsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BENJIROLLS.
