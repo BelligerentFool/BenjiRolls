@@ -1,5 +1,5 @@
 
-On the 2nd of July 1776, the Second Continental Congress, while still meeting in Philadelphia,voted unanimously to declare the Independence "of the Thirteen United States of America." Two days later, on July 4, Congress adopted the Declaration of Independence.
+On the 2nd of July 1776, the Second Continental Congress, while still meeting in Philadelphia, voted unanimously to declare the Independence "of the Thirteen United States of America." Two days later, on July 4, Congress adopted the Declaration of Independence.
 
 Without Benjamin Franklin rallying for the support of an Independent America, things might not have turned out the way they did.
 
